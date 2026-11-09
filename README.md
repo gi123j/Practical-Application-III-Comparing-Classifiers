@@ -55,5 +55,5 @@ The dataset originates from the UCI Machine Learning Repository (`bank-additiona
 ```text
 ├── data/
 │   └── bank-additional-full.csv    # Dataset file
-├── notebooks/                      # Jupyter notebooks with full analysis
-├── README.md                       # Project documentation
+├── prompt_III.ipynb                # Jupyter Notebook containing end-to-end data cleaning, EDA, modeling, and evaluation
+└── README.md                       # Project overview, methodology, and key findings
