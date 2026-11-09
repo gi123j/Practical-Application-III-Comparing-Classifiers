@@ -55,19 +55,5 @@ The dataset originates from the UCI Machine Learning Repository (`bank-additiona
 ```text
 ├── data/
 │   └── bank-additional-full.csv    # Dataset file
-├── images/                         # Visualizations and plots
 ├── notebooks/                      # Jupyter notebooks with full analysis
 ├── README.md                       # Project documentation
-└── requirements.txt                # Python dependencies
-```
-
-## 🚀 Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/practical-application-comparisons.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook to replicate the data preprocessing, model training, and evaluation steps.
